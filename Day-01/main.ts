@@ -5,8 +5,7 @@ Your message should be simple, such as, “Hello Areeba, would you like to learn
 
 let myName: string = "Areeba";
 
-console.log(`Hello ${myName}, would you like to learn some Python today?”`);
-
+console.log(`Hello ${myName}, would you like to learn some Python today?`);
 
 /* Q3 - Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, 
 uppercase, and titlecase.*/
